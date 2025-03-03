@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about technology, learning, and bui
 
 ## 📝 Projects
 1. **[Product Ordering System](#):** Backend code for managing orders and products with a focus on e-commerce enterprise applications with cloud.
-2. **[AI-Based Expert System for HR Talent Acquisition](#):** An AI-powered solution to streamline hiring processes.
+2. **[AI-Based Object detectable robot]-Machine learing,arduino,tensorflow
 
 
 ## 📫 How to Reach Me
